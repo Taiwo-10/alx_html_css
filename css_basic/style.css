@@ -6,11 +6,12 @@ flex-direction: column;
 main{
   display: flex;
   flex-direction: row;
-  flex:auto
+  flex:auto;
 }
 article{
   flex:2
-  overflow-y : auto
+  overflow-y : auto;
+  
 }
 aside{
   flex:1
